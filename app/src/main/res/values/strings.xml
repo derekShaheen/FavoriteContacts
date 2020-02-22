@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FavoriteContacts</string>
+    <string name="call">Call</string>
+    <string name="text">Send Text</string>
+    <string name="contactImg">ContactImage</string>
+    <string-array name="textOptions">
+        <item>Call me later!</item>
+        <item>See you soon!</item>
+        <item>Buy me pizza!</item>
+    </string-array>
+    <string name="contact1">Tom</string>
+    <string name="contact2">Kanye West</string>
+    <string name="contact3">The Queen</string>
+    <string name="contact1phone">8675309</string>
+    <string name="contact2phone">8009843672</string>
+    <string name="contact3phone">7762323</string>
+</resources>
